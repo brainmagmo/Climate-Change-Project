@@ -1,0 +1,43 @@
+﻿Title: Oil vs. U.S. Climate Change
+
+
+Members:
+Laura Paakh
+Sagar Patel
+Thomas Tang
+Stephen Hong
+Trevor Kleinstuber
+
+
+Description:
+In this project we will explore the relationship between population density, oil consumption, and global warming, broken down by geographic areas in the United States.
+
+
+Questions:
+What is the relationship between population density and oil consumption? For one city? For multiple cities?
+Does an increase in oil consumption correlate with a rise in the average temperature of the world?
+Are denser cities using less oil?
+
+
+Datasets:
+-oil consumption
+-temperature
+-population density
+-$ for public transit/population
+
+
+Breakdown of tasks:
+Laura Paakh-
+Sagar Patel-
+Thomas Tang-
+Stephen Hong-
+Trevor Kleinstuber-
+
+
+Find good data
+Narrow the question scope
+Clean the data
+Analyze
+Clean the code 
+Write analysis
+Everyone: Present analysis
