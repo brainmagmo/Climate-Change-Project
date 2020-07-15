@@ -27,9 +27,10 @@ Fossil fuel consumption vs gloabal temperature over time?
 
 Datasets:
 -oil consumption
+-fossil consumption by country - Thompson
 -temperature
--population density
--$ for public transit/population
+-population density by country - Sagar
+-$ for public transit/population - Trevor
 
 Region consumption
 region population
