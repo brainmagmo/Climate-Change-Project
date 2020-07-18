@@ -1,2 +1,4 @@
 Population Density by Country data source: https://data.worldbank.org/indicator/EN.POP.DNST?end=2019&start=2019&view=map&year=2019
 Energy Consumption by Country data source: https://www.eia.gov/international/data/world/total-energy/total-energy-consumption?pd=44&p=0000000010000000000000000000000000000000000000000000000000u&u=0&f=A&v=mapbubble&a=-&i=none&vo=value&&t=C&g=00000000000000000000000000000000000000000000000001&l=249-ruvvvvvfvtvnvv1vrvvvvfvvvvvvfvvvou20evvvvvvvvvvvvvvs&s=315532800000&e=1483228800000
+
+World Population: https://data.worldbank.org/indicator/SP.POP.TOTL
