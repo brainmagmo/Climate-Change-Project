@@ -1,0 +1,10 @@
+https://stats.oecd.org/Index.aspx?DataSetCode=ITF_PASSENGER_TRANSPORT
+OECD
+https://datahub.io/core/global-temp#pandas
+GISS Surface Temperature (GISTEMP) analysis and the global component of Climate at a Glance (GCAG). 
+https://www.eia.gov/international/data/world/total-energy/total-energy-consumption
+U.S. Energy Information Administration
+https://public.emdat.be/
+EM-DAT, the International Disaster Database. CRED/UCLouvain 2020
+https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api
+The World Bank
