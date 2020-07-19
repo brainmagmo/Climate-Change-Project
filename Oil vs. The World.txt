@@ -15,10 +15,20 @@ In this project we will explore the relationship between population density, oil
 
 Questions:
 What is the relationship between population density and oil consumption? For one city? For multiple cities? By country.
+> What is the relationship between population density and energy consumption?
+
 Does an increase in oil consumption correlate with a rise in the average temperature of the world?
-Are denser countries/cities using less oil?
+> Does an increase in energy consumption correlate with a rise in the average temperature of the world?
+
 
 Extreme weather events (count/severity/cost impact) vs global temperature?
+
+Extreme weather events vs transit?
+
+Energy consumption vs transit?
+
+Extreme weather vs energy consumption?
+
 Is climate change localized?
 
 Fossil fuel consumption vs gloabal temperature over time?
